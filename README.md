@@ -20,4 +20,5 @@ Accuracy: 90.5%
 ### Sources
 
 Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-Referenced from: https://www.kaggle.com/pranjalverma08/pneumonia-detection-from-scratch
+
+Referenced: https://www.kaggle.com/pranjalverma08/pneumonia-detection-from-scratch
